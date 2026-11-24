@@ -11,7 +11,8 @@ Fase atual: 2 (entrevista) · Atualizado em 2026-11-24
 - Fonte das imagens: gameplay gravada pela própria pessoa
 - Tipo e formato: Reels/Shorts de passo a passo de gameplay narrado, vertical 9:16, 30 fps, ~60–70 s
 - Pastas: projeto <a definir>; ferramentas `.edicao/` neste repositório
-- Narração: <a definir>
+- Narração: voz de IA da ElevenLabs (chave de API ainda não configurada; alternativa: ElevenLabs via Higgsfield)
+- Roteiro: <a definir — sugestão: Claude escreve a partir das anotações, pessoa aprova antes de gerar a voz>
 - Transcrição: <a definir>
 - Notas faladas: <a definir>
 - Animação: legendas palavra por palavra (estilo da referência); mapas/objetos em tela cheia
