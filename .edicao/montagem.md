@@ -1,51 +1,48 @@
 # Montagem do fluxo de edição
 
-Fase atual: 2 (entrevista) · Atualizado em 2026-11-24
+Fase atual: 4 (plano do fluxo) · Atualizado em 2026-11-25
 
 ## Ambiente
 - Sistema: Linux (sessão na nuvem, temporária) · Python: 3.13 · FFmpeg: 6.1 · Node.js: 22 · Git: 2.43 · GPU: não
-- Instalado nesta montagem: nada ainda
+- Instalado nesta montagem: Piper (voz grátis pt-BR), faster-whisper (transcrição local), OpenCV, onnxruntime + LaMa (remoção de legenda queimada), fonte Anton
+- Rede liberada no ambiente `repositoryteste`: Higgsfield (download/upload), Hugging Face (modelos)
 
-## Decisões
-- Revisão: vídeo pronto (MP4), ajustes pelo chat (sugestão; aguardando confirmação)
-- Fonte das imagens: gameplay gravada pela própria pessoa
-- Tipo e formato: Reels/Shorts de passo a passo de gameplay narrado, vertical 9:16, 30 fps, ~60–70 s
-- Pastas: projeto <a definir>; ferramentas `.edicao/` neste repositório
-- Narração: voz de IA da ElevenLabs (chave de API ainda não configurada; alternativa: ElevenLabs via Higgsfield)
-- Roteiro: <a definir — sugestão: Claude escreve a partir das anotações, pessoa aprova antes de gerar a voz>
-- Transcrição: <a definir>
-- Notas faladas: <a definir>
-- Animação: legendas palavra por palavra (estilo da referência); mapas/objetos em tela cheia
-- Câmera: <a definir>
-- Som: <a definir>
-- Revisões: <a definir>
-- Nomes: prefixo <…>; skill mestra /<…>
+## Decisões (confirmadas na prática, em 4 vídeos)
+- Revisão: **vídeo pronto (MP4)**, ajustes pelo chat
+- Tipo e formato: Reels/TikTok/Shorts de curiosidades, dicas e easter eggs de GTA 6, vertical 9:16, 30 fps, **mais de 60 s** (regra do Creator Rewards)
+- Pastas: ferramentas `.edicao/` neste repositório; roteiros em `.edicao/roteiros/`; marca em `marca/`
+- Roteiro: **Claude escreve** a partir de um vídeo de exemplo (inspiração, sem copiar) → a pessoa aprova
+- Narração: **ElevenLabs**, gerada pela pessoa no site (sem chave de API) e enviada em MP3; Piper como voz provisória
+- Transcrição: faster-whisper `small` local, com tempo por palavra, **alinhada ao texto do roteiro** (corrige nomes como Hellspawn e Port Gellhorn)
+- Gameplay: da própria pessoa (gravada sem legenda) ou do vídeo de exemplo com as legendas antigas apagadas
+- Limpeza de legendas queimadas: máscara só das letras + preenchimento com quadros vizinhos alinhados; LaMa (IA) quando há fundo claro ou movimento
+- Animação: estilo "cidade neon" (perfil abaixo), renderizado em Python/PIL + FFmpeg
+- Som: trilha própria (batida 120 BPM com ducking), whoosh nos cortes, riser antes do clímax, impacto na revelação, moedas; **−14 LUFS**
+- Entregas por vídeo: MP4 + capa 1080×1920 + descrição (TikTok/Reels/Shorts) + comentário para fixar
+- Marca: COLFTER (avatar e logo em `marca/`); **sem marca d'água nos vídeos** (pedido da pessoa)
+- Nomes: prefixo <a definir>; skill mestra /<a definir>
 
-## Perfil
-- reels-gameplay: referência 01 analisada (snapinsta, 68 s). Falta virar ficha com números e ser confirmado.
-  - Legenda: fonte condensada branca, caixa alta, 2–4 palavras, palavra falada em tarja magenta, centro da tela.
-  - Ritmo: 11 cortes em 68 s (~6 s/cena), corte a cada novo passo.
-  - Estrutura: gancho com promessa → passos ("depois disso", "fechou?") → recompensa → "salva esse vídeo".
-  - Narração: masculina, informal, contínua. Áudio ~−17 dB médio, pico −2 dB.
+## Perfil: estilo "cidade neon" (referência 02)
+- Cenário contínuo: cidade 3D vista de cima, horizonte curvo, céu roxo, torre rosa em degraus; a câmera flutua e mergulha com rastros de velocidade nas trocas de passo.
+- Conteúdo em cards no outdoor do topo da torre (haste + feixe de luz), com entrada "quadrado rosa → conteúdo", pop elástico de ~0,3 s e troca a cada ~1,4 s.
+- Título gigante neon no primeiro segundo (gancho visual).
+- Cards brancos de passo ("AJUSTE 1", "PASSO 2"), com o valor antigo riscado e o novo em verde; etiquetas em pílula rosa sincronizadas com a voz.
+- Leque de cenas nas recompensas, mapa como planeta com rota laranja, chamadas com linhas, moedas, brilhos "+" e mascote próprio (controle neon).
+- Legenda embaixo (~73% da altura), Inter Bold, acumulando palavra por palavra, palavra-chave em rosa sublinhada.
+- Card final de CTA ("COMENTA ...").
+
+## Perfil: referência 01 (Porsche)
+- Estrutura: gancho com promessa → passos numerados → recompensa → "salva esse vídeo" + "comenta X".
+
+## Vídeos já feitos
+- Porsche grátis (v7h), Satanás (v3 limpo), 4 ajustes (v1), cada um com capa e descrição.
 
 ## Fluxo aprovado
-<ainda não>
+<proposto em 2026-11-25, aguardando aprovação>
 
 ## Skills escritas
 - [ ] regras comuns
+- [ ] skill mestra
 
 ## Próximo passo
-Confirmar revisão por vídeo pronto; decidir narração (voz própria gravada ou voz de IA).
-
-## Perfil — estilo "cidade neon" (referência 02, analisada em 2026-11-25)
-- Cenário contínuo: cidade neon roxa à noite + torre rosa central; câmera flutua (sem corte seco).
-- Conteúdo em cards flutuantes (borda neon rosa, feixe de luz até a torre), pop elástico ~0,3 s, troca a cada ~1,4 s.
-- Listas "FAZ ISSO" (título preto + palavra rosa, itens numerados em bolinhas rosa); etiquetas em pílula rosa.
-- Legenda embaixo (~75% da altura), Inter Bold, minúsculas, palavra falada em rosa sublinhada, sombra escura.
-- Moedas caindo em falas de dinheiro; brilhos "+"; mapa neon em tela cheia com rota acesa.
-- Áudio: −14 LUFS. Mascote da referência é marca do criador: não usar.
-
-## Notas sobre o material
-- O Reel de referência 01 (Porsche grátis, perfil colfter) é do próprio dono do projeto: a gameplay pode ser usada sem crédito externo.
-- O Reel original tem a marca "Conteúdo de IA" no Instagram: manter o aviso de IA nos vídeos derivados.
-- Pendente: receber os clipes originais (sem legenda e sem logo) para refazer a v7 em quadro inteiro.
+Aprovar o plano do fluxo e escolher o nome da skill mestra e o prefixo.
