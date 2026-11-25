@@ -16,6 +16,8 @@ Fase atual: 4 (plano do fluxo) · Atualizado em 2026-11-25
 - Transcrição: faster-whisper `small` local, com tempo por palavra, **alinhada ao texto do roteiro** (corrige nomes como Hellspawn e Port Gellhorn)
 - Gameplay: da própria pessoa (gravada sem legenda) ou do vídeo de exemplo com as legendas antigas apagadas
 - Limpeza de legendas queimadas: máscara só das letras + preenchimento com quadros vizinhos alinhados; LaMa (IA) quando há fundo claro ou movimento
+- Vídeo de exemplo de outro criador (sem borrão): o card mostra **só a área nítida** da gameplay, cortando a faixa borrada de cima (a borda é medida em cada trecho) e a área das legendas antigas. A IA entra só nos textos que ficam dentro dessa área (seta, marca do TikTok, falas no alto), com máscara justa e em resolução nativa. Os trechos com transição borrada do original ficam de fora.
+- Exportação: **4K (2160×3840)**. O render é feito em 1080×1920, a gameplay é extraída a 1,5× com nitidez, e a ampliação final usa lanczos + nitidez adaptativa (cas). H.264 com teto de 11 Mb/s, para ficar abaixo de 100 MB (limite do GitHub).
 - Animação: estilo "cidade neon" (perfil abaixo), renderizado em Python/PIL + FFmpeg
 - Som: trilha própria (batida 120 BPM com ducking), whoosh nos cortes, riser antes do clímax, impacto na revelação, moedas; **−14 LUFS**
 - Entregas por vídeo: MP4 + capa 1080×1920 + descrição (TikTok/Reels/Shorts) + comentário para fixar
@@ -36,6 +38,7 @@ Fase atual: 4 (plano do fluxo) · Atualizado em 2026-11-25
 
 ## Vídeos já feitos
 - Porsche grátis (v7h), Satanás (v3 limpo), 4 ajustes (v1), cada um com capa e descrição.
+- Hulk Vermelho: v1 (1080p, com remendos) e versão 4K sem borrões (área nítida + limpeza fina).
 
 ## Fluxo aprovado
 <proposto em 2026-11-25, aguardando aprovação>
