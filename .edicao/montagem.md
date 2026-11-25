@@ -44,3 +44,8 @@ Confirmar revisão por vídeo pronto; decidir narração (voz própria gravada o
 - Legenda embaixo (~75% da altura), Inter Bold, minúsculas, palavra falada em rosa sublinhada, sombra escura.
 - Moedas caindo em falas de dinheiro; brilhos "+"; mapa neon em tela cheia com rota acesa.
 - Áudio: −14 LUFS. Mascote da referência é marca do criador: não usar.
+
+## Notas sobre o material
+- O Reel de referência 01 (Porsche grátis, perfil colfter) é do próprio dono do projeto: a gameplay pode ser usada sem crédito externo.
+- O Reel original tem a marca "Conteúdo de IA" no Instagram: manter o aviso de IA nos vídeos derivados.
+- Pendente: receber os clipes originais (sem legenda e sem logo) para refazer a v7 em quadro inteiro.
