@@ -36,3 +36,11 @@ Fase atual: 2 (entrevista) · Atualizado em 2026-11-24
 
 ## Próximo passo
 Confirmar revisão por vídeo pronto; decidir narração (voz própria gravada ou voz de IA).
+
+## Perfil — estilo "cidade neon" (referência 02, analisada em 2026-11-25)
+- Cenário contínuo: cidade neon roxa à noite + torre rosa central; câmera flutua (sem corte seco).
+- Conteúdo em cards flutuantes (borda neon rosa, feixe de luz até a torre), pop elástico ~0,3 s, troca a cada ~1,4 s.
+- Listas "FAZ ISSO" (título preto + palavra rosa, itens numerados em bolinhas rosa); etiquetas em pílula rosa.
+- Legenda embaixo (~75% da altura), Inter Bold, minúsculas, palavra falada em rosa sublinhada, sombra escura.
+- Moedas caindo em falas de dinheiro; brilhos "+"; mapa neon em tela cheia com rota acesa.
+- Áudio: −14 LUFS. Mascote da referência é marca do criador: não usar.
