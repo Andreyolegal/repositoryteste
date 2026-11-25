@@ -1,0 +1,7 @@
+Mano, se você ainda não mudou essas quatro configurações no GTA seis... você tá jogando errado.
+Isso aqui deixa o jogo mais fluido, a mira mais precisa e o personagem muito mais leve. Salva esse vídeo e faz junto comigo.
+Ajuste um, o meu preferido: na aba Tela, coloca o desfoque de movimento no um. A câmera fica muito mais limpa, e some aquela sensação de lentidão quando você gira a tela.
+Ajuste dois: como o GTA seis roda a trinta quadros nos consoles, a mira faz toda a diferença na troca de tiro. Em Jogabilidade, na parte de Mira, troca de Parcial pra Travar. Se você estranhou o combate no começo... é isso aqui que resolve.
+Ajuste três: ainda em Jogabilidade, vai em Movimento e muda de Padrão pra Ajustado. O personagem responde mais rápido e anda de um jeito muito mais natural.
+Ajuste quatro, o que quase ninguém muda: na aba Interface, troca as unidades de Imperial pra Métrico. O padrão usa pés e milhas, dos Estados Unidos. Assim o GPS e a velocidade ficam em metros e quilômetros.
+Pronto... agora o jogo fica do jeito que deveria ser desde o começo. Comenta qual desses você já tinha mudado, e me segue pra não perder as próximas dicas de GTA seis.
