@@ -60,3 +60,22 @@ Você ajudou ele ou deixou pros federais? 👇
 - **"Final secreto" + "te deixa rico" na primeira linha** juntam curiosidade e recompensa, as duas coisas que mais prendem em vídeo de segredo.
 - **O passo a passo numerado** faz a pessoa **salvar** o vídeo para fazer depois, e salvamento é o sinal mais forte para o algoritmo.
 - **"Comenta HULK"** é um comentário fácil de fazer, e o comentário fixado ("ajudou ou deixou pros federais?") puxa discussão.
+
+## Respostas para quem perguntar o local (copie e cole)
+**Resposta curta para o TikTok** (138 caracteres; o limite de um comentário no TikTok é 150):
+```
+📍 Acampamento do Plano Final (2ª missão do Kyle), placa FARMFIX na entrada. Ajuda o Hulk, dá o abraço, espera uns dias e entra no galpão 🔥
+```
+**Resposta completa** (Instagram, direct ou WhatsApp):
+```
+📍 Fica no acampamento do Plano Final, o mesmo da 2ª missão do Kyle (onde você pegou os produtos químicos). Na entrada tem um portão e a placa FARMFIX.
+
+✅ Antes: no final da missão do Hulk Vermelho, ajuda ele contra os federais e dá o abraço.
+⏳ Espera alguns dias no jogo e vai até lá.
+🔫 Vai ter tiroteio: entra no galpão, o Kyle tá lá dentro.
+💰 Explora com calma: dinheiro, drogas, escopeta lendária e a moto.
+```
+**Comentário para fixar** (assim todo mundo vê o local sem precisar perguntar):
+```
+📍 LOCAL: acampamento do Plano Final (2ª missão do Kyle). Tem a placa FARMFIX na entrada 👀 Só aparece se você ajudou o Hulk e deu o abraço!
+```
