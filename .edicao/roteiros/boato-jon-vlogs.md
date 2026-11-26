@@ -1,7 +1,7 @@
 # Roteiro: "Boato: o NPC do Jon Vlogs no GTA 6"
 
 Inspirado no Reel de referência 08 (65 s, "acharam o NPC do Jon Vlogs"). Aqui o assunto é contado **como boato**, e não como fato. O exemplo afirmava coisas que não foram confirmadas sobre pessoas reais, e um vídeo assim pode ser derrubado por desinformação.
-**Duração estimada:** 68 a 75 s, com cerca de 185 palavras. Passa de 1 minuto, o mínimo para o TikTok pagar.
+**Duração:** a narração gerada na ElevenLabs (voz Jhony Tygas, versão 1 de 2) ficou com 60,9 s, e o vídeo, com 62,4 s. Passa de 1 minuto, o mínimo para o TikTok pagar. O arquivo é `boato-jon-vlogs-narracao.mp3`.
 
 ## Texto para a ElevenLabs (pronto para colar)
 > Tá rolando um boato que tá deixando todo mundo maluco: dizem que acharam o NPC do Jon Vlogs dentro do GTA seis. Tudo começou no meio do ano, quando o Jon postou vídeos num estúdio de captura de movimento, todo cheio de sensores, e soltou: GTA seis vai ter nóis lá. Pronto... a internet surtou. Agora tá rodando esse vídeo de um NPC igualzinho a ele, na beira da praia, curtindo como se fosse bilionário. Segundo o boato, dá pra interagir com ele: xingar, cumprimentar e várias outras reações. E ele também teria sido visto nesse bar, tomando uma breja e arrumando confusão com o Jason. Tem gente dizendo até que a Ana Castela tá no mapa... e que o Cristiano Ronaldo apareceu no jogo. Mas presta atenção: a Rockstar não confirmou nada, o próprio Jon já disse que o papo de GTA era zoeira, e a imagem do Cristiano Ronaldo é fan art. Ou seja... por enquanto, é só boato. E aí, você acredita? Comenta ACREDITO ou FAKE, e segue pra saber primeiro se sair alguma confirmação.

@@ -39,6 +39,7 @@ Fase atual: 4 (plano do fluxo) · Atualizado em 2026-11-25
 ## Vídeos já feitos
 - Porsche grátis (v7h), Satanás (v3 limpo), 4 ajustes (v1), cada um com capa e descrição.
 - Hulk Vermelho: v1 (1080p, com remendos) e versão 4K sem borrões (área nítida + limpeza fina).
+- Boato do NPC do Jon Vlogs (4K): contado como **boato**, não como fato. Mesma edição. A narração foi gerada pelo Claude direto na ElevenLabs (voz Jhony Tygas, eleven_v4, com tags de emoção). As legendas do exemplo ficavam em cima das pessoas, e a IA deixava mancha cinza, então o card mostra só a parte acima da legenda. Ficaram de fora a imagem de IA da Ana Castela e o vídeo do Speed. Tem cards novos: a frase do Jon, o menu de interação, "Ana Castela no mapa?", "A verdade" e o carimbo "SÓ BOATO".
 - Relógio arco-íris (4K): mesma edição do Hulk. O exemplo tinha a tela dividida (rosto do criador e legenda em cima, gameplay embaixo), então o card usa só a gameplay abaixo da legenda, sem IA nenhuma. Tem cards novos: o caminho "pelos fundos", a planta do andar de cima e o relógio que "some".
 - 61 códigos de trapaça (4K): mesma edição do Hulk. As cenas do exemplo tinham texto na tela toda, então os cards usam a gameplay da própria pessoa + cards animados (setas do código acendendo com a voz, contador de dinheiro, controle PS5/Xbox, cadeado, bêbado, salvar/troféus).
 
