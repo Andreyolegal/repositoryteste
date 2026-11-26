@@ -39,6 +39,7 @@ Fase atual: 4 (plano do fluxo) · Atualizado em 2026-11-25
 ## Vídeos já feitos
 - Porsche grátis (v7h), Satanás (v3 limpo), 4 ajustes (v1), cada um com capa e descrição.
 - Hulk Vermelho: v1 (1080p, com remendos) e versão 4K sem borrões (área nítida + limpeza fina).
+- Relógio arco-íris (4K): mesma edição do Hulk. O exemplo tinha a tela dividida (rosto do criador e legenda em cima, gameplay embaixo), então o card usa só a gameplay abaixo da legenda, sem IA nenhuma. Tem cards novos: o caminho "pelos fundos", a planta do andar de cima e o relógio que "some".
 - 61 códigos de trapaça (4K): mesma edição do Hulk. As cenas do exemplo tinham texto na tela toda, então os cards usam a gameplay da própria pessoa + cards animados (setas do código acendendo com a voz, contador de dinheiro, controle PS5/Xbox, cadeado, bêbado, salvar/troféus).
 
 ## Fluxo aprovado

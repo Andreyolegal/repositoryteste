@@ -1,7 +1,7 @@
 # Roteiro: "O relógio mais raro do GTA 6 (o arco-íris da mansão)"
 
 Inspirado no Reel de referência 07 (45 s, "como encontrar o relógio Rolex Rainbow"). O texto é novo: aproveitei só a história e o caminho.
-**Duração estimada:** 68 a 75 s, com cerca de 185 palavras. Passa de 1 minuto, o mínimo para o TikTok pagar.
+**Duração:** a voz gravada na ElevenLabs ficou com 71,7 s, e o vídeo, com 73 s. Passa de 1 minuto, o mínimo para o TikTok pagar.
 
 ## Estrutura (o mesmo modelo dos vídeos anteriores)
 | Parte | Função |
