@@ -9,7 +9,7 @@ E ele te deixa RICO 💰
 ✅ Passo a passo:
 1️⃣ Fim da missão, quando os federais chegarem → ajuda ele
 2️⃣ Dá um abraço nele → ele fala "procura por mim"
-3️⃣ Alguns dias depois → acampamento do Plano Final (2ª missão do Kyle)
+3️⃣ Alguns dias depois → acampamento do Plano Final (2ª missão do Kyle), placa FARMFIX na entrada
 4️⃣ Tiroteio → entra no galpão → o Kyle tá lá
 5️⃣ Explora com calma: dinheiro, drogas, escopeta lendária e uma moto
 
@@ -25,7 +25,7 @@ E ele te deixa RICO 💰
 ✅ Passo a passo:
 1️⃣ Fim da missão, quando os federais chegarem → ajuda ele
 2️⃣ Dá um abraço nele → ele fala "procura por mim"
-3️⃣ Alguns dias depois → acampamento do Plano Final (2ª missão do Kyle)
+3️⃣ Alguns dias depois → acampamento do Plano Final (2ª missão do Kyle), placa FARMFIX na entrada
 4️⃣ Tiroteio → entra no galpão → o Kyle tá lá
 5️⃣ Explora com calma: dinheiro, drogas, escopeta lendária e uma moto
 
