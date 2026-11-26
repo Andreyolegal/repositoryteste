@@ -1,7 +1,7 @@
 # Roteiro: "61 códigos de trapaça no GTA 6, e o do dinheiro"
 
 Inspirado no Reel de referência 06 (55 s, @cortegta6br, "O GTA 6 tem código?"). O texto é novo: aproveitei só o tema e a ordem (como digitar → código do dinheiro → regras), e acrescentei informação conferida em guias publicados.
-**Duração estimada:** 66 a 70 s, com cerca de 200 palavras. Passa de 1 minuto, o mínimo para o TikTok pagar.
+**Duração:** a voz gravada na ElevenLabs ficou com 79,6 s, e o vídeo, com 81 s. Passa de 1 minuto, o mínimo para o TikTok pagar.
 
 ## Estrutura (o mesmo modelo dos vídeos anteriores)
 | Parte | Função |
