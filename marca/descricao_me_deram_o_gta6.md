@@ -2,9 +2,9 @@
 
 ## TikTok (copie e cole)
 ```
-😭 Imagina receber o GTA 6 das mãos do Michael, do Franklin e do Trevor...
+😱 Eles me deram ISSO... e eu não aguentei 😭
 
-Eu não ia aguentar 🥹🎮
+Imagina receber o GTA 6 das mãos do Michael, do Franklin e do Trevor 🎮
 
 💬 Comenta GTA se você também ia chorar
 👉 Segue pra mais vídeos assim
@@ -16,9 +16,9 @@ Eu não ia aguentar 🥹🎮
 
 ## Instagram Reels (copie e cole)
 ```
-😭 Imagina receber o GTA 6 das mãos do Michael, do Franklin e do Trevor...
+😱 Eles me deram ISSO... e eu não aguentei 😭
 
-Eu não ia aguentar 🥹🎮
+Imagina receber o GTA 6 das mãos do Michael, do Franklin e do Trevor 🎮
 
 💬 Comenta GTA se você também ia chorar
 👉 Segue o perfil pra mais vídeos assim
